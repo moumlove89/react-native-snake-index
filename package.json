@@ -1,0 +1,32 @@
+{
+    "name": "react-native-snake-index",
+    "version": "1.0.0",
+    "description": "this is designed for snake index",
+    "homepage": "https://github.com/moumlove89/react-native-snake-index",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "react-native-snake-index"
+    ],
+    "author": {
+        "name": "snake",
+        "email": "snake@example.com"
+    },
+    "license": "MIT",   
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/moumlove89/react-native-snake-index.git"
+    },
+    "dependencies": {
+        "@react-native-community/netinfo": "9.3.7",
+        "react-native-spinkit": "^1.5.1"
+    },
+    "peerDependencies": {
+        "react": "*",
+        "react-native": "*",
+        "react-native-splash-screen": "^3.3.0"
+    }
+  }
+  
